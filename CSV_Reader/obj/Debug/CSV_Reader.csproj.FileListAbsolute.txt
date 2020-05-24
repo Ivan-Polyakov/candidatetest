@@ -1,0 +1,49 @@
+D:\Visual_Studio_Pro\WPF\CSV_Reader\bin\Debug\CSV_Reader.exe.config
+D:\Visual_Studio_Pro\WPF\CSV_Reader\bin\Debug\CSV_Reader.exe
+D:\Visual_Studio_Pro\WPF\CSV_Reader\bin\Debug\CSV_Reader.pdb
+D:\Visual_Studio_Pro\WPF\CSV_Reader\bin\Debug\Newtonsoft.Json.dll
+D:\Visual_Studio_Pro\WPF\CSV_Reader\bin\Debug\Newtonsoft.Json.xml
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\CSV_Reader.csprojAssemblyReference.cache
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\MainWindow.g.cs
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\App.g.cs
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\CSV_Reader_MarkupCompile.cache
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\CSV_Reader_MarkupCompile.lref
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\MainWindow.baml
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\CSV_Reader.g.resources
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\CSV_Reader.Properties.Resources.resources
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\CSV_Reader.csproj.GenerateResource.cache
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\CSV_Reader.csproj.CopyComplete
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\CSV_Reader.exe
+D:\Visual_Studio_Pro\WPF\CSV_Reader\obj\Debug\CSV_Reader.pdb
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\bin\Debug\CSV_Reader.exe.config
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\obj\Debug\CSV_Reader.exe
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\obj\Debug\CSV_Reader.pdb
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\bin\Debug\CSV_Reader.exe
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\bin\Debug\CSV_Reader.pdb
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\bin\Debug\Newtonsoft.Json.dll
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\bin\Debug\Newtonsoft.Json.xml
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\obj\Debug\CSV_Reader.csprojResolveAssemblyReference.cache
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\obj\Debug\MainWindow.g.cs
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\obj\Debug\App.g.cs
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\obj\Debug\CSV_Reader_MarkupCompile.cache
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\obj\Debug\CSV_Reader_MarkupCompile.lref
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\obj\Debug\MainWindow.baml
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\obj\Debug\CSV_Reader.g.resources
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\obj\Debug\CSV_Reader.Properties.Resources.resources
+D:\Kechkin_DOC\Visual_Studio_Pro\CSV_Reader\obj\Debug\CSV_Reader.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.exe.config
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.exe
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.pdb
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.exe
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\bin\Debug\CSV_Reader.pdb
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\obj\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader_MarkupCompile.lref
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.g.resources
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\CSV_Reader\CSV_Reader\obj\Debug\CSV_Reader.csprojResolveAssemblyReference.cache
