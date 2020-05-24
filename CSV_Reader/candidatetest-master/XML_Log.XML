@@ -1,0 +1,406 @@
+<root>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Cmd</node-path>
+		<address>0</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ElHi</node-path>
+		<address>8</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ElHist</node-path>
+		<address>16</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ElLo</node-path>
+		<address>24</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ElMax</node-path>
+		<address>32</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ElMin</node-path>
+		<address>40</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.EnableFiltering</node-path>
+		<address>48</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ImitMax</node-path>
+		<address>56</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ImitMin</node-path>
+		<address>64</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ImitValue</node-path>
+		<address>72</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.KFiltering</node-path>
+		<address>80</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.LevelHist</node-path>
+		<address>88</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max1FlagsBlock</node-path>
+		<address>96</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max1FlagsEnable</node-path>
+		<address>104</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max1FlagsMsg</node-path>
+		<address>112</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max1FlagsRing</node-path>
+		<address>120</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max1Ust</node-path>
+		<address>128</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max2FlagsBlock</node-path>
+		<address>136</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max2FlagsEnable</node-path>
+		<address>144</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max2FlagsMsg</node-path>
+		<address>152</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max2FlagsRing</node-path>
+		<address>160</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max2Ust</node-path>
+		<address>168</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max3FlagsBlock</node-path>
+		<address>176</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max3FlagsEnable</node-path>
+		<address>184</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max3FlagsMsg</node-path>
+		<address>192</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max3FlagsRing</node-path>
+		<address>200</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max3Ust</node-path>
+		<address>208</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min1FlagsBlock</node-path>
+		<address>216</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min1FlagsEnable</node-path>
+		<address>224</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min1FlagsMsg</node-path>
+		<address>232</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min1FlagsRing</node-path>
+		<address>240</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min1Ust</node-path>
+		<address>248</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min2FlagsBlock</node-path>
+		<address>256</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min2FlagsEnable</node-path>
+		<address>264</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min2FlagsMsg</node-path>
+		<address>272</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min2FlagsRing</node-path>
+		<address>280</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min2Ust</node-path>
+		<address>288</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min3FlagsBlock</node-path>
+		<address>296</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min3FlagsEnable</node-path>
+		<address>304</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min3FlagsMsg</node-path>
+		<address>312</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min3FlagsRing</node-path>
+		<address>320</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min3Ust</node-path>
+		<address>328</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.NdvZoneMax</node-path>
+		<address>336</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.NdvZoneMin</node-path>
+		<address>344</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.PhisHi</node-path>
+		<address>352</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.PhisLow</node-path>
+		<address>360</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.CurrentLevel</node-path>
+		<address>368</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Ext</node-path>
+		<address>376</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Imit</node-path>
+		<address>384</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.LTMin</node-path>
+		<address>392</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.MTMax</node-path>
+		<address>400</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Ndv</node-path>
+		<address>408</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.RawValue</node-path>
+		<address>416</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Value</node-path>
+		<address>424</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.VisualValue</node-path>
+		<address>432</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Cmd_in</node-path>
+		<address>440</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ElHi_in</node-path>
+		<address>448</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ElHist_in</node-path>
+		<address>456</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ElLo_in</node-path>
+		<address>464</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ElMax_in</node-path>
+		<address>472</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ElMin_in</node-path>
+		<address>480</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.EnableFiltering_in</node-path>
+		<address>488</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ImitMax_in</node-path>
+		<address>496</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ImitMin_in</node-path>
+		<address>504</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.ImitValue_in</node-path>
+		<address>512</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.KFiltering_in</node-path>
+		<address>520</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.LevelHist_in</node-path>
+		<address>528</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max1FlagsBlock_in</node-path>
+		<address>536</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max1FlagsEnable_in</node-path>
+		<address>544</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max1FlagsMsg_in</node-path>
+		<address>552</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max1FlagsRing_in</node-path>
+		<address>560</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max1Ust_in</node-path>
+		<address>568</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max2FlagsBlock_in</node-path>
+		<address>576</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max2FlagsEnable_in</node-path>
+		<address>584</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max2FlagsMsg_in</node-path>
+		<address>592</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max2FlagsRing_in</node-path>
+		<address>600</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max2Ust_in</node-path>
+		<address>608</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max3FlagsBlock_in</node-path>
+		<address>616</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max3FlagsEnable_in</node-path>
+		<address>624</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max3FlagsMsg_in</node-path>
+		<address>632</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max3FlagsRing_in</node-path>
+		<address>640</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Max3Ust_in</node-path>
+		<address>648</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min1FlagsBlock_in</node-path>
+		<address>656</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min1FlagsEnable_in</node-path>
+		<address>664</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min1FlagsMsg_in</node-path>
+		<address>672</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min1FlagsRing_in</node-path>
+		<address>680</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min1Ust_in</node-path>
+		<address>688</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min2FlagsBlock_in</node-path>
+		<address>696</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min2FlagsEnable_in</node-path>
+		<address>704</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min2FlagsMsg_in</node-path>
+		<address>712</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min2FlagsRing_in</node-path>
+		<address>720</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min2Ust_in</node-path>
+		<address>728</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min3FlagsBlock_in</node-path>
+		<address>736</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min3FlagsEnable_in</node-path>
+		<address>744</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min3FlagsMsg_in</node-path>
+		<address>752</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min3FlagsRing_in</node-path>
+		<address>760</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.Min3Ust_in</node-path>
+		<address>768</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.NdvZoneMax_in</node-path>
+		<address>776</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.NdvZoneMin_in</node-path>
+		<address>784</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.PhisHi_in</node-path>
+		<address>792</address>
+	</item>
+	<item Binding="Introduced">
+		<node-path>root.SSN1.ZRP1.Output.P.PhisLow_in</node-path>
+		<address>800</address>
+	</item>
+</root>

@@ -1,0 +1,26 @@
+<root>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkD</node-path>
+    <address>100</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkI</node-path>
+    <address>101</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkN</node-path>
+    <address>102</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.flowkP</node-path>
+    <address>103</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.mode</node-path>
+    <address>104</address>
+  </item>
+  <item Binding="Introduced">
+    <node-path>root.SSN1.ZRP1.UstProc</node-path>
+    <address>105</address>
+  </item>
+</root>
